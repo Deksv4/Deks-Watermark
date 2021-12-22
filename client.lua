@@ -14,10 +14,3 @@ AddEventHandler("GetID:client", function(id)
       spillere = spillere,
     })
 end)
-
-
-
-
-
-
-
